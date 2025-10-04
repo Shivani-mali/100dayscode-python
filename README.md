@@ -25,3 +25,4 @@ You'll find a daily log of my work, organized into folders for each day. Each fo
 3.  **Track progress:** Each day's folder will contain the code and a brief summary of what I worked on.
 
 Feel free to follow along, offer suggestions, or start your own challenge!
+Make Sure That (0_0) Now You are a Pro Python Programmer!!
